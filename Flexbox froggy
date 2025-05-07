@@ -2,7 +2,7 @@
 -Copie a propriedade de CSS "justify-content" a seguir e, então, resolva os leveis 1 até o 4 do flexboxfroggy.com
 -Copie a propriedade de CSS "align-items" a seguir e, então, resolva os leveis 5 até o 7 do flexboxfroggy.com (Não se esqueça que ainda precisa usar a "justify-content")
 -Copie a propriedade de CSS "flex-direction" a seguir e, então, resolva os leveis 8 até o 13 do flexboxfroggy.com (Não se esqueça que ainda precisa usar as outras propriedades)
-
+-Copie a propriedade "order" a seguir e, então, resolva os leveis 14 e 15 do flexboxfroggy.com.
 
 
 
@@ -28,3 +28,5 @@
 +row-reverse: Os itens são colocados opostos à direção do texto.
 +column: Os itens são colocados de cima para baixo.
 +column-reverse: Os itens são colocados de baixo para cima.
+
+#order: muda a ordem do item escolhido de acordo com o número usado nessa propriedade. Por exemplo, o número -1 faz com que o item escolhido fique uma posição antes na ordem.
