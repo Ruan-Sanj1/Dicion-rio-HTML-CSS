@@ -1,0 +1,30 @@
+-Copie a propriedade "display-flex;", pois ela é últilem todos os leveis
+-Copie a propriedade de CSS "justify-content" a seguir e, então, resolva os leveis 1 até o 4 do flexboxfroggy.com
+-Copie a propriedade de CSS "align-items" a seguir e, então, resolva os leveis 5 até o 7 do flexboxfroggy.com (Não se esqueça que ainda precisa usar a "justify-content")
+-Copie a propriedade de CSS "flex-direction" a seguir e, então, resolva os leveis 8 até o 13 do flexboxfroggy.com (Não se esqueça que ainda precisa usar as outras propriedades)
+
+
+
+
+
+#display: flex; permite rearranjar os elementos de forma flexível. Geralmente usado antes de "justify-content", "align-items" ou "flex-direction".
+
+#justify-content: é uma propriedade de CSS que alinha os elementos no eixo X, ou seja, horizontalmente. O justify-content aceita os seguintes valores:
++flex-start: Os itens são alinhados no início da caixa.
++flex-end: Os itens são alinhados no final da caixa.
++center: Os itens são alinhados no centro da caixa.
++space-between: Os itens ficam com espaçamento igual entre eles.
++space-around: Os itens são exibidos com espaçamento igual ao redor deles.
+
+#align-items: é uma propriedade de CSS que alinha os elementos no eixo Y, ou seja, verticalmente. Ele aceita os seguintes valores:
++flex-start: Os itens são alinhados na parte de cima da caixa
++flex-end: Os itens são alinhados na parte de baixo da caixa.
++center: Os itens são alinhados no centro vertical.
++baseline: Os itens são exibidos na linha de base.
++stretch: Os itens são esticados para caber no recipiente.
+
+#flex-direction: essa propriedade define a direção em que os items são colocados no container. Ela aceita os seguintes valores.
+row: Os itens são colocados na mesma direção do texto.
+row-reverse: Os itens são colocados opostos à direção do texto.
+column: Os itens são colocados de cima para baixo.
+column-reverse: Os itens são colocados de baixo para cima.
