@@ -24,7 +24,7 @@
 +stretch: Os itens são esticados para caber no recipiente.
 
 #flex-direction: essa propriedade define a direção em que os items são colocados no container. Ela aceita os seguintes valores.
-row: Os itens são colocados na mesma direção do texto.
-row-reverse: Os itens são colocados opostos à direção do texto.
-column: Os itens são colocados de cima para baixo.
-column-reverse: Os itens são colocados de baixo para cima.
++row: Os itens são colocados na mesma direção do texto.
++row-reverse: Os itens são colocados opostos à direção do texto.
++column: Os itens são colocados de cima para baixo.
++column-reverse: Os itens são colocados de baixo para cima.
